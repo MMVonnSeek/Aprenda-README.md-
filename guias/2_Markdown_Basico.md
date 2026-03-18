@@ -88,6 +88,5 @@ function hello() {
   console.log("Olá, mundo!");
 }
 ```
-```
 
-**Próximo Passo:** Agora que você sabe o básico do Markdown, vamos aplicá-lo na prática! Vá para o **Guia 3: README de Perfil**.
+**Próximo Passo:** Agora que você sabe o básico do Markdown, vamos aplicá-lo na prática! Vá para o [**Guia 3: README de Perfil**](https://github.com/MMVonnSeek/Aprenda-README.md-/blob/main/guias/3_README_Para_Perfil.md).
