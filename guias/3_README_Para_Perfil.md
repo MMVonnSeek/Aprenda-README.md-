@@ -42,4 +42,4 @@ Badges são pequenos ícones que mostram informações rápidas. Para iniciantes
 ```
 Você pode encontrar mais badges no site [Shields.io](https://shields.io/).
 
-**Próximo Passo:** Agora que seu perfil está pronto, vamos documentar seus projetos! Vá para o **Guia 4: README de Projeto**.
+**Próximo Passo:** Agora que seu perfil está pronto, vamos documentar seus projetos! Vá para o [**Guia 4: README de Projeto**](https://github.com/MMVonnSeek/Aprenda-README.md-/blob/main/guias/4_README_Para_Projeto.md).
