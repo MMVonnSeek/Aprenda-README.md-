@@ -22,7 +22,7 @@ Para um projeto iniciante, a estrutura deve ser focada em fazer o projeto funcio
 2.  **Comece pelo Título:** Use `#` para o nome do projeto.
 3.  **Seja Claro e Conciso:** Na descrição, use uma linguagem simples. Evite jargões complexos.
 4.  **Instruções de Instalação:** Esta é a parte mais crítica. Teste o passo a passo você mesmo para garantir que funciona. Use blocos de código (três crases) para os comandos.
-5.  **Use o Template:** Para garantir que você não esqueça nada, use nosso template: [templates/PROJETO_BASICO.md](/Template_para_Projeto.md).
+5.  **Use o Template:** Para garantir que você não esqueça nada, use nosso template: [templates/PROJETO_BASICO.md](https://github.com/MMVonnSeek/Aprenda-README.md-/blob/main/templates/Template_para_Projeto.md).
 
 ## Dica de Ouro: Pense no Usuário
 
