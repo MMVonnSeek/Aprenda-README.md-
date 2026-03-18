@@ -38,4 +38,4 @@ Seu perfil no GitHub é o seu portfólio de código.
 | **De Projeto** | Dentro de cada repositório. | Explicar o projeto, como instalar e usar. |
 | **De Perfil** | Em um repositório especial com o seu nome de usuário. | Apresentar você, suas habilidades e seus contatos. |
 
-**Próximo Passo:** Antes de escrever o conteúdo, você precisa aprender a linguagem de formatação. Vá para o **Guia 2: Markdown Básico**.
+**Próximo Passo:** Antes de escrever o conteúdo, você precisa aprender a linguagem de formatação. Vá para o [**Guia 2: Markdown Básico**](https://github.com/MMVonnSeek/Aprenda-README.md-/blob/main/guias/2_Markdown_Basico.md).
