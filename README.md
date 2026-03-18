@@ -30,10 +30,10 @@ Siga os guias na ordem abaixo para construir seu conhecimento e seus primeiros `
 
 | Passo | Título do Guia | O que você vai aprender |
 | :--- | :--- | :--- |
-| **1** | [O Que é um README.md e Por Que Ele Importa](/1_O_Que_e_README.md) | O conceito fundamental: a importância da documentação para o seu futuro profissional. |
-| **2** | [Markdown Básico: A Linguagem do README](/2_Markdown_Basico.md) | As ferramentas essenciais para formatar seu texto (títulos, negrito, listas e links). |
-| **3** | [Criando o README do Seu Perfil no GitHub](/3_README_Para_Perfil.md) | O guia passo a passo para transformar sua página principal em um portfólio. |
-| **4** | [Criando o README para Seus Projetos](/4_README_Para_Projeto.md) | A estrutura básica que todo projeto precisa para ser compreendido e usado. |
+| **1** | [O Que é um README.md e Por Que Ele Importa](guias/1_O_Que_e_README.md) | O conceito fundamental: a importância da documentação para o seu futuro profissional. |
+| **2** | [Markdown Básico: A Linguagem do README](guias/2_Markdown_Basico.md) | As ferramentas essenciais para formatar seu texto (títulos, negrito, listas e links). |
+| **3** | [Criando o README do Seu Perfil no GitHub](guias/3_README_Para_Perfil.md) | O guia passo a passo para transformar sua página principal em um portfólio. |
+| **4** | [Criando o README para Seus Projetos](guias/4_README_Para_Projeto.md) | A estrutura básica que todo projeto precisa para ser compreendido e usado. |
 
 ---
 
@@ -41,8 +41,8 @@ Siga os guias na ordem abaixo para construir seu conhecimento e seus primeiros `
 
 Para facilitar, criamos templates simples e fáceis de adaptar. Basta copiar o conteúdo e preencher com suas informações!
 
-*   **Template de Perfil:** [templates/PERFIL_SIMPLES.md](/Template_para_Perfil.md)
-*   **Template de Projeto:** [templates/PROJETO_BASICO.md](/Template_para_Projeto.md)
+*   **Template de Perfil:** [templates/PERFIL_SIMPLES.md](templates/Template_para_Perfil.md)
+*   **Template de Projeto:** [templates/PROJETO_BASICO.md](templates/Template_para_Projeto.md)
 
 ---
 
