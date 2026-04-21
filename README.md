@@ -46,6 +46,18 @@ Para facilitar, criamos templates simples e fáceis de adaptar. Basta copiar o c
 
 ---
 
+## 💖 Apoie este projeto
+
+Se este projeto te ajudou, considere apoiar ❤️
+
+Você pode contribuir com um apoio único ou mensal e ajudar a manter este projeto ativo.
+
+👉 https://github.com/sponsors/MMVonnSeek
+
+Seu apoio ajuda diretamente no desenvolvimento de novas ferramentas e conteúdos 🙌
+
+---
+
 ## Pratique!
 
 A melhor forma de aprender é fazendo. Use o guia de Markdown para praticar a formatação e aplique os templates nos seus projetos. Um `README` bem feito é o primeiro passo para se destacar na comunidade de desenvolvimento!
